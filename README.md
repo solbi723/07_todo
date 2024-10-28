@@ -28,10 +28,18 @@ Python으로 만든 간단한 커맨드 라인 인터페이스(CLI) 작업 관�
 ## 설치
 
 1. **저장소 클론**:
+    bash
+    git clone https://github.com/your-username/cli-task-manager.git
+    cd cli-task-manager
+    
+
 2. **Python 설치 확인**:
     - 이 프로젝트는 Python 3.6 이상이 필요합니다. [Python 다운로드 링크](https://www.python.org/downloads/)에서 설치할 수 있습니다.
 
 3. **애플리케이션 실행**:
+    bash
+    python task_manager.py
+    
 
 ## 사용법
 
